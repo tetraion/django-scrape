@@ -1,1 +1,1 @@
-web: gunicorn shopping.wsgi
+web: gunicorn pj_scrape.wsgi
